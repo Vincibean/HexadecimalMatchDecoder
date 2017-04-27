@@ -1,4 +1,4 @@
-name := "Hexadecimal Stream Decoder"
+name := "Hexadecimal Match Decoder"
 
 version := "1.0"
 
